@@ -1176,6 +1176,11 @@ PrefabInstance:
       propertyPath: m_Text
       value: Nivel 1 Juanma
       objectReference: {fileID: 0}
+    - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: LevelName
+      value: Level1
+      objectReference: {fileID: 0}
     - target: {fileID: 114944463944534660, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Sprite
@@ -2969,7 +2974,7 @@ PrefabInstance:
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: LevelName
-      value: RetroForest
+      value: Level2
       objectReference: {fileID: 0}
     - target: {fileID: 114854082875608866, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
