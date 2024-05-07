@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CorgiEngine/Demos/Retro/RetroGravity1.unity
-    guid: 651fe2312d8cc4f5587ce3e96e9609b0
-  - enabled: 1
-    path: Assets/CorgiEngine/Demos/Retro/RetroGravity2.unity
-    guid: 7f88f9618b30a48dd84ec6896516d345
-  - enabled: 1
-    path: Assets/CorgiEngine/Demos/Retro/RetroGravity3.unity
-    guid: 6b658baaaddf7d3438852dcbf194ca19
-  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 1
@@ -29,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
     guid: 945e5b97212e8e74ebcd35bddde3970c
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
+    guid: 38b3bbb0fec788241870d54b46b03e47
   m_configObjects: {}
