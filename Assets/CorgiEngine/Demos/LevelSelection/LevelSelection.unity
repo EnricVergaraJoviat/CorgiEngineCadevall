@@ -423,7 +423,7 @@ PrefabInstance:
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: LevelName
-      value: HipsterLevel
+      value: RetroGravity3
       objectReference: {fileID: 0}
     - target: {fileID: 114854082875608866, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -1966,7 +1966,7 @@ PrefabInstance:
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: LevelName
-      value: NewCorgi3D
+      value: RetroGravity2
       objectReference: {fileID: 0}
     - target: {fileID: 114854082875608866, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
@@ -3194,7 +3194,7 @@ PrefabInstance:
     - target: {fileID: 114526828102552616, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: LevelName
-      value: RetroVania
+      value: RetroGravity1
       objectReference: {fileID: 0}
     - target: {fileID: 114854082875608866, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
