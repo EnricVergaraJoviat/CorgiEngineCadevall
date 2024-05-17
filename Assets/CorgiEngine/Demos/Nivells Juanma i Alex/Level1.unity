@@ -12387,6 +12387,11 @@ PrefabInstance:
       propertyPath: TargetRectTransform
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114754626080742972, guid: 67f399667c9c9fc42bb3e61e1d82c8c3,
+        type: 3}
+      propertyPath: ButtonPressedFirstTime.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MoreMountains.CorgiEngine.LevelSelector, MoreMountains.CorgiEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 114857858817517086, guid: 67f399667c9c9fc42bb3e61e1d82c8c3,
         type: 3}
       propertyPath: TargetImage
